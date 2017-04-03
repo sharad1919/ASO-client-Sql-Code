@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1490957329 source:c:\miniproject\checkminsp.cpp
+	<iostream>
+
+1491096943 
+
+1491189042 source:c:\miniproject\main.cpp
+	"header.h"
+
+1491188564 c:\miniproject\header.h
+	<iostream>
+	<fstream>
+
+1491190140 source:c:\miniproject\minsp.cpp
+	"header.h"
+
+1491188049 source:c:\miniproject\user.cpp
+	"header.h"
+
+1491109853 source:/media/sharad/WINDOWS 10/miniproject/main.cpp
+	"header.h"
+
+1491109821 /media/sharad/WINDOWS 10/miniproject/header.h
+	<iostream>
+
